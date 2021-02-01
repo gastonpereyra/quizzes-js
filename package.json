@@ -1,0 +1,20 @@
+{
+  "name": "quizzes-js",
+  "version": "1.0.0",
+  "description": "Store Javascript quizzes, coding rarity, and fun stuff",
+  "main": "index.js",
+  "scripts": {
+    "welcome": "node quizzes/welcome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gastonpereyra/quizzes-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gastonpereyra/quizzes-js/issues"
+  },
+  "homepage": "https://github.com/gastonpereyra/quizzes-js#readme"
+}
